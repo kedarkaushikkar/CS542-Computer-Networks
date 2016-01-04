@@ -1,8 +1,7 @@
 CS542 : LINK STATE ROUTING SIMULATION
 
-Team Members : 
-1. Pooja Bhagwan Manakani(CWID : A20354444) - pmankani@hawk.iit.edu
-2. Kedar Kaushikkar(CWID : A20355218) - kkaushik@hawk.iit.edu
+Author :
+1. Kedar Kaushikkar(CWID : A20355218) - kkaushik@hawk.iit.edu
 
 The directory contains the following document:
 
